@@ -14,6 +14,12 @@
 
 Demo: https://discovery-news-demo.ng.bluemix.net/
 
+
+## Deploy to your IBM Cloud - Try this!
+
+[![IBM Cloud にデプロイ](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/watson-developer-cloud/discovery-nodejs.git&branch=master)
+
+
 ## Prerequisites
 
 1. Sign up for an [IBM Cloud account](https://console.bluemix.net/registration/).
